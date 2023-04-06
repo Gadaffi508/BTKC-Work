@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateDesign", "StateDesign\StateDesign.csproj", "{8BE48CA0-238D-4D13-BB19-A51A08CE7DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeditatorDesign", "..\MeditatorDesign\MeditatorDesign.csproj", "{39BD4BA8-3A82-4D56-8188-80775D646B23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE48CA0-238D-4D13-BB19-A51A08CE7DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE48CA0-238D-4D13-BB19-A51A08CE7DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE48CA0-238D-4D13-BB19-A51A08CE7DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE48CA0-238D-4D13-BB19-A51A08CE7DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39BD4BA8-3A82-4D56-8188-80775D646B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39BD4BA8-3A82-4D56-8188-80775D646B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39BD4BA8-3A82-4D56-8188-80775D646B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39BD4BA8-3A82-4D56-8188-80775D646B23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {923A4773-C4B8-4F8B-B48C-83BA1158A350}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\MeditatorDesign\bin\Debug\net6.0\MeditatorDesign.exe
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\MeditatorDesign\bin\Debug\net6.0\MeditatorDesign.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\MeditatorDesign\bin\Debug\net6.0\MeditatorDesign.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\MeditatorDesign\bin\Debug\net6.0\MeditatorDesign.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\MeditatorDesign\bin\Debug\net6.0\MeditatorDesign.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\MeditatorDesign\obj\Debug\net6.0\MeditatorDesign.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\MeditatorDesign\obj\Debug\net6.0\MeditatorDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\MeditatorDesign\obj\Debug\net6.0\MeditatorDesign.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\MeditatorDesign\obj\Debug\net6.0\MeditatorDesign.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\MeditatorDesign\obj\Debug\net6.0\MeditatorDesign.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\MeditatorDesign\obj\Debug\net6.0\MeditatorDesign.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\MeditatorDesign\obj\Debug\net6.0\refint\MeditatorDesign.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\MeditatorDesign\obj\Debug\net6.0\MeditatorDesign.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\MeditatorDesign\obj\Debug\net6.0\MeditatorDesign.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\MeditatorDesign\obj\Debug\net6.0\ref\MeditatorDesign.dll
