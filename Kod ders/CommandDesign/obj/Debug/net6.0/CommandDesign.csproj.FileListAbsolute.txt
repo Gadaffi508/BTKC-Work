@@ -1,0 +1,15 @@
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\CommandDesign\bin\Debug\net6.0\CommandDesign.exe
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\CommandDesign\bin\Debug\net6.0\CommandDesign.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\CommandDesign\bin\Debug\net6.0\CommandDesign.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\CommandDesign\bin\Debug\net6.0\CommandDesign.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\CommandDesign\bin\Debug\net6.0\CommandDesign.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\CommandDesign\obj\Debug\net6.0\CommandDesign.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\CommandDesign\obj\Debug\net6.0\CommandDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\CommandDesign\obj\Debug\net6.0\CommandDesign.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\CommandDesign\obj\Debug\net6.0\CommandDesign.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\CommandDesign\obj\Debug\net6.0\CommandDesign.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\CommandDesign\obj\Debug\net6.0\CommandDesign.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\CommandDesign\obj\Debug\net6.0\refint\CommandDesign.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\CommandDesign\obj\Debug\net6.0\CommandDesign.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\CommandDesign\obj\Debug\net6.0\CommandDesign.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\CommandDesign\obj\Debug\net6.0\ref\CommandDesign.dll
