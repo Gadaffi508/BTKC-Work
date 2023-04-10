@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StateDesign", "StateDesign\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeditatorDesign", "..\MeditatorDesign\MeditatorDesign.csproj", "{39BD4BA8-3A82-4D56-8188-80775D646B23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandDesign", "..\CommandDesign\CommandDesign.csproj", "{BE9450F3-CCAD-4D5E-AF7D-F67CD0587FE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandDesign", "..\CommandDesign\CommandDesign.csproj", "{BE9450F3-CCAD-4D5E-AF7D-F67CD0587FE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorDesign", "..\VisitorDesign\VisitorDesign.csproj", "{6F702B9E-0055-42F4-91A9-8AF22350AD7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisitorDesign", "..\VisitorDesign\VisitorDesign.csproj", "{6F702B9E-0055-42F4-91A9-8AF22350AD7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "..\DependencyInjection\DependencyInjection.csproj", "{1DEC550A-782F-4495-A1BD-9A0269AA342E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6F702B9E-0055-42F4-91A9-8AF22350AD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F702B9E-0055-42F4-91A9-8AF22350AD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F702B9E-0055-42F4-91A9-8AF22350AD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DEC550A-782F-4495-A1BD-9A0269AA342E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DEC550A-782F-4495-A1BD-9A0269AA342E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DEC550A-782F-4495-A1BD-9A0269AA342E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DEC550A-782F-4495-A1BD-9A0269AA342E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
