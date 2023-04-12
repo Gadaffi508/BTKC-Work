@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandDesign", "..\Command
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisitorDesign", "..\VisitorDesign\VisitorDesign.csproj", "{6F702B9E-0055-42F4-91A9-8AF22350AD7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "..\DependencyInjection\DependencyInjection.csproj", "{1DEC550A-782F-4495-A1BD-9A0269AA342E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection", "..\DependencyInjection\DependencyInjection.csproj", "{1DEC550A-782F-4495-A1BD-9A0269AA342E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullObject", "..\NullObject\NullObject.csproj", "{00AB3FCF-213A-4F2E-84F0-063F740B7855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiton", "..\Multiton\Multiton.csproj", "{C563D87D-4163-43C6-B919-914CF9C483CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{1DEC550A-782F-4495-A1BD-9A0269AA342E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DEC550A-782F-4495-A1BD-9A0269AA342E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DEC550A-782F-4495-A1BD-9A0269AA342E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AB3FCF-213A-4F2E-84F0-063F740B7855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AB3FCF-213A-4F2E-84F0-063F740B7855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AB3FCF-213A-4F2E-84F0-063F740B7855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AB3FCF-213A-4F2E-84F0-063F740B7855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C563D87D-4163-43C6-B919-914CF9C483CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C563D87D-4163-43C6-B919-914CF9C483CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C563D87D-4163-43C6-B919-914CF9C483CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C563D87D-4163-43C6-B919-914CF9C483CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

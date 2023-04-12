@@ -1,0 +1,15 @@
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\NullObject\bin\Debug\net6.0\NullObject.exe
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\NullObject\bin\Debug\net6.0\NullObject.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\NullObject\bin\Debug\net6.0\NullObject.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\NullObject\bin\Debug\net6.0\NullObject.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\NullObject\bin\Debug\net6.0\NullObject.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\NullObject\obj\Debug\net6.0\NullObject.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\NullObject\obj\Debug\net6.0\NullObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\NullObject\obj\Debug\net6.0\NullObject.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\NullObject\obj\Debug\net6.0\NullObject.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\NullObject\obj\Debug\net6.0\NullObject.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\NullObject\obj\Debug\net6.0\NullObject.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\NullObject\obj\Debug\net6.0\refint\NullObject.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\NullObject\obj\Debug\net6.0\NullObject.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\NullObject\obj\Debug\net6.0\NullObject.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\Kod ders\NullObject\obj\Debug\net6.0\ref\NullObject.dll
