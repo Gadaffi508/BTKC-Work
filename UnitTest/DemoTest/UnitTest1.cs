@@ -50,9 +50,55 @@ namespace DemoTest
         [Test]
         public void Test6()
         {
-            int a = 10, b = a;
+            int a = 10;
+            int b = a;
             Assert.AreEqual(a, b,"Areaqual Failed");
-            Assert.AreNotSame(a,b,"AreaSame Failed");
+            Assert.AreNotEqual(a,b,"AreaSame Failed");
+        }
+        [Test]
+        public void Test7()
+        {
+            Assert.AreEqual(1,1);
+            Assert.Inconclusive("Bu test yeterli deðil");
+        }
+        [Test]
+        public void Test8()
+        {
+            var sayý = 5m;
+            //Assert.IsInstanceOf(sayý,typeof(decimal));
+            //Assert.IsNotInstanceOf(sayý,typeof(int));
+        }
+        [Test]
+        public void Test9()
+        {
+            Assert.IsTrue(10%2==0);
+            Assert.IsFalse(10%2==1);
+        }
+        [Test]
+        public void Test10()
+        {
+            List<string> sayýlar = new List<string> {"Yusuf","Eda","Pýnar"};
+
+            var cIleBaslayanIlkIsým = sayýlar.FirstOrDefault(t=>t.StartsWith("C"));
+            var yIleBaslayanIlkIsým = sayýlar.FirstOrDefault(t=>t.StartsWith("Y"));
+
+            Assert.IsNull(cIleBaslayanIlkIsým,"IsNull Baþarýsýz oldu");
+            Assert.IsNotNull(yIleBaslayanIlkIsým,"IsNotnull baþarýsýz oldu");
+
+        }
+        [Test]
+        public void Test11()
+        {
+            try
+            {
+                var sayi = 5;
+                int sonuc = sayi / 0;
+            }
+            catch (DivideByZeroException)
+            {
+
+                Assert.Fail("Test Baþarýsýz oldu");
+            }
         }
     }
 }
