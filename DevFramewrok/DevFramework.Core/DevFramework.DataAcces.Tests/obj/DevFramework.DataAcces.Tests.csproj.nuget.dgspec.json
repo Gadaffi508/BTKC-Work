@@ -4,14 +4,76 @@
     "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.DataAcces.Tests\\DevFramework.DataAcces.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.DataAcces.Tests\\DevFramework.DataAcces.Tests.csproj": {
+    "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramewok.Nortwind.dataAcces\\DevFramewok.Nortwind.dataAcces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.DataAcces.Tests\\DevFramework.DataAcces.Tests.csproj",
-        "projectName": "DevFramework.DataAcces.Tests",
-        "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.DataAcces.Tests\\DevFramework.DataAcces.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramewok.Nortwind.dataAcces\\DevFramewok.Nortwind.dataAcces.csproj",
+        "projectName": "DevFramewok.Nortwind.dataAcces",
+        "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramewok.Nortwind.dataAcces\\DevFramewok.Nortwind.dataAcces.csproj",
         "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.DataAcces.Tests\\obj\\",
+        "outputPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramewok.Nortwind.dataAcces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.Core\\DevFramework.Core.csproj": {
+                "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.Core\\DevFramework.Core.csproj"
+              },
+              "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFrameWork.Nortwind.Entites\\DevFrameWork.Nortwind.Entites.csproj": {
+                "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFrameWork.Nortwind.Entites\\DevFrameWork.Nortwind.Entites.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.Core\\DevFramework.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.Core\\DevFramework.Core.csproj",
+        "projectName": "DevFramework.Core",
+        "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.Core\\DevFramework.Core.csproj",
+        "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +102,79 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "nhibernate": {
+              "target": "Package",
+              "version": "[5.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.DataAcces.Tests\\DevFramework.DataAcces.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.DataAcces.Tests\\DevFramework.DataAcces.Tests.csproj",
+        "projectName": "DevFramework.DataAcces.Tests",
+        "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.DataAcces.Tests\\DevFramework.DataAcces.Tests.csproj",
+        "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.DataAcces.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramewok.Nortwind.dataAcces\\DevFramewok.Nortwind.dataAcces.csproj": {
+                "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramewok.Nortwind.dataAcces\\DevFramewok.Nortwind.dataAcces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.1.0, )"
@@ -61,6 +196,65 @@
               "version": "[3.1.2, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFrameWork.Nortwind.Entites\\DevFrameWork.Nortwind.Entites.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFrameWork.Nortwind.Entites\\DevFrameWork.Nortwind.Entites.csproj",
+        "projectName": "DevFrameWork.Nortwind.Entites",
+        "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFrameWork.Nortwind.Entites\\DevFrameWork.Nortwind.Entites.csproj",
+        "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFrameWork.Nortwind.Entites\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.Core\\DevFramework.Core.csproj": {
+                "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.Core\\DevFramework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

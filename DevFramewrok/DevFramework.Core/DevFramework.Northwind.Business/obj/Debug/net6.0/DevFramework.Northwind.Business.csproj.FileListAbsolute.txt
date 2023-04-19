@@ -1,0 +1,12 @@
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Northwind.Business\bin\Debug\net6.0\DevFramework.Northwind.Business.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Northwind.Business\bin\Debug\net6.0\DevFramework.Northwind.Business.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Northwind.Business\bin\Debug\net6.0\DevFramework.Northwind.Business.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Northwind.Business\obj\Debug\net6.0\DevFramework.Northwind.Business.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Northwind.Business\obj\Debug\net6.0\DevFramework.Northwind.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Northwind.Business\obj\Debug\net6.0\DevFramework.Northwind.Business.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Northwind.Business\obj\Debug\net6.0\DevFramework.Northwind.Business.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Northwind.Business\obj\Debug\net6.0\DevFramework.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Northwind.Business\obj\Debug\net6.0\DevFramework.Northwind.Business.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Northwind.Business\obj\Debug\net6.0\refint\DevFramework.Northwind.Business.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Northwind.Business\obj\Debug\net6.0\DevFramework.Northwind.Business.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Northwind.Business\obj\Debug\net6.0\ref\DevFramework.Northwind.Business.dll

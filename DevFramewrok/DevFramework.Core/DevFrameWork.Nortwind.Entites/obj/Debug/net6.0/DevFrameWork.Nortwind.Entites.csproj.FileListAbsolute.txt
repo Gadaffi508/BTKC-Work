@@ -1,0 +1,17 @@
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\bin\Debug\net6.0\DevFrameWork.Nortwind.Entites.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\bin\Debug\net6.0\DevFrameWork.Nortwind.Entites.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\bin\Debug\net6.0\DevFrameWork.Nortwind.Entites.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\bin\Debug\net6.0\DevFrameWork.Nortwind.Entites.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\bin\Debug\net6.0\DevFramework.Core.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\bin\Debug\net6.0\DevFramework.Core.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\obj\Debug\net6.0\DevFrameWork.Nortwind.Entites.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\obj\Debug\net6.0\DevFrameWork.Nortwind.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\obj\Debug\net6.0\DevFrameWork.Nortwind.Entites.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\obj\Debug\net6.0\DevFrameWork.Nortwind.Entites.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\obj\Debug\net6.0\DevFrameWork.Nortwind.Entites.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\obj\Debug\net6.0\DevFrameWork.Nortwind.Entites.csproj.CopyComplete
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\obj\Debug\net6.0\DevFrameWork.Nortwind.Entites.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\obj\Debug\net6.0\refint\DevFrameWork.Nortwind.Entites.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\obj\Debug\net6.0\DevFrameWork.Nortwind.Entites.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\obj\Debug\net6.0\DevFrameWork.Nortwind.Entites.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFrameWork.Nortwind.Entites\obj\Debug\net6.0\ref\DevFrameWork.Nortwind.Entites.dll

@@ -1,0 +1,14 @@
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Core\bin\Debug\net6.0\DevFramework.Core.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Core\bin\Debug\net6.0\DevFramework.Core.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Core\bin\Debug\net6.0\DevFramework.Core.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Core\bin\Debug\net6.0\DevFramework.Core.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Core\obj\Debug\net6.0\DevFramework.Core.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Core\obj\Debug\net6.0\DevFramework.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Core\obj\Debug\net6.0\DevFramework.Core.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Core\obj\Debug\net6.0\DevFramework.Core.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Core\obj\Debug\net6.0\DevFramework.Core.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Core\obj\Debug\net6.0\DevFramework.Core.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Core\obj\Debug\net6.0\refint\DevFramework.Core.dll
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Core\obj\Debug\net6.0\DevFramework.Core.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Core\obj\Debug\net6.0\DevFramework.Core.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\KodWorkC#\DevFramewrok\DevFramework.Core\DevFramework.Core\obj\Debug\net6.0\ref\DevFramework.Core.dll
