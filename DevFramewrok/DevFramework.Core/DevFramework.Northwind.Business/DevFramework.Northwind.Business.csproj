@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DevFramewok.Nortwind.dataAcces\DevFramewok.Nortwind.dataAcces.csproj" />
+    <ProjectReference Include="..\DevFrameWork.Nortwind.Entites\DevFrameWork.Nortwind.Entites.csproj" />
+  </ItemGroup>
+
 </Project>
