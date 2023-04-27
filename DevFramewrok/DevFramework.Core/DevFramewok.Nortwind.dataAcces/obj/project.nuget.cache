@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "unyxb/Y2R7CK/t9feJF8hiV8gAPqEdTQ4PlVlEi99+ayUJ4TJrw7DwPnvtABbtqIzcDSVmQLNUPAiLwXnkW6JQ==",
+  "dgSpecHash": "dfUusB5L/0QVMsIbzAf8p43VGn+lU2Z+1j8A1fS8Qa4px7jC7lMUfUiSLc8V2aPkpffSV5bNprjG8MSExYeepw==",
   "success": true,
   "projectFilePath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramewok.Nortwind.dataAcces\\DevFramewok.Nortwind.dataAcces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yusuf\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\fluentnhibernate\\3.2.0\\fluentnhibernate.3.2.0.nupkg.sha512",
+    "C:\\Users\\yusuf\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\iesi.collections\\4.0.4\\iesi.collections.4.0.4.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

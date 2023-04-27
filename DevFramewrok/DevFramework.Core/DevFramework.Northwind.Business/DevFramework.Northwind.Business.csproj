@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="fluentvalidation" Version="11.5.2" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\DevFramewok.Nortwind.dataAcces\DevFramewok.Nortwind.dataAcces.csproj" />
     <ProjectReference Include="..\DevFrameWork.Nortwind.Entites\DevFrameWork.Nortwind.Entites.csproj" />
   </ItemGroup>

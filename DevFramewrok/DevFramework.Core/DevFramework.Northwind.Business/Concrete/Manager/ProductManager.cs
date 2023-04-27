@@ -1,5 +1,7 @@
 ﻿using DevFramewok.Nortwind.dataAcces.Abstract;
+using DevFramework.Core.CrossCuttingConcersn.Validation.FluentValidation;
 using DevFramework.Northwind.Business.Abstract;
+using DevFramework.Northwind.Business.ValidationRules.FluentValidation;
 using DevFrameWork.Nortwind.Entites.Concrete;
 using System;
 using System.Collections.Generic;
@@ -18,6 +20,7 @@ namespace DevFramework.Northwind.Business.Concrete.Manager
             _productDal = productDal;
         }
 
+        [FluentValidate(typeof(ProductValidator))]
         public Product Add(Product product)
         {
             return _productDal.Add(product);
@@ -31,6 +34,14 @@ namespace DevFramework.Northwind.Business.Concrete.Manager
         public Product GetById(int id)
         {
             return _productDal.Get(p=>p.ProductID == id);
+        }
+
+        [FluentValidate(typeof(ProductValidator))]
+        public Product Update(Product product)
+        {
+            ValidatorTool.FluentValidate(new ProductValidator(), product);
+
+            return _productDal.Update(product);
         }
     }
 }

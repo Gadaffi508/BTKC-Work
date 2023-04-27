@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "N8xXzkdQMOPNYrOkUnsDrrMqU3fwrZ1V0elcZsRkNBm81bQmle3LH3WXZQkXzRiEOP3h/qiGmP4oBeRlSLrEzA==",
+  "dgSpecHash": "CkSMTOvrvAUi2O3rsx4RkCGCgVL5OgfVfTr25tJwZ8LuNPqB06KhPHlH4a1r/7KEnDOD2BWJGA3hNfOF7fi2gw==",
   "success": true,
   "projectFilePath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\KodWorkC#\\DevFramewrok\\DevFramework.Core\\DevFramework.DataAcces.Tests\\DevFramework.DataAcces.Tests.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\yusuf\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\fluentnhibernate\\3.2.0\\fluentnhibernate.3.2.0.nupkg.sha512",
+    "C:\\Users\\yusuf\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\iesi.collections\\4.0.4\\iesi.collections.4.0.4.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
